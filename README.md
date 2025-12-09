@@ -51,11 +51,5 @@
 ### Prerequisites
 - Node.js v18+
 - npm / yarn
-- MongoDB Atlas account or local MongoDB server
+- MongoDB Atlas account or local
 
----
-
-### Clone Repository
-```bash
-git clone https://github.com/Asheer-abbasi01/MediLink.git
-cd MediLink
